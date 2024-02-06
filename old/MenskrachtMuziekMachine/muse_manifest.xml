@@ -1,0 +1,20 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="menskrachtmuziekmachine.arvidjense.nl" resolutions="1x" timestamp="1458245638458">
+  <folder name="css">
+    <file name="site_global.css" crc="4100233221"/>
+    <file name="index.css" crc="3900056613" ref="index"/>
+    <file name="iefonts_index.css" crc="3856583358" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
+    <file name="museutils.js" crc="183364071" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="musicalmechanicalmachine13.png" crc="4161813647" seo="true" ref="index"/>
+    <file name="musicalmechanicalmachine14.png" crc="3858884333" seo="true" ref="index"/>
+    <file name="musicalmechanicalmachine15.png" crc="3895228405" seo="true" ref="index"/>
+    <file name="pasted image 313x207.jpg" crc="3815824724" seo="true" ref="index"/>
+    <file name="synecy-roel-2-crop-u156.jpg" crc="293648841" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4140385528" seo="true" mt="1458245585766" redirect="true"/>
+</manifest>
